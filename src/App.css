@@ -39,7 +39,7 @@ body {
   background-position: 40% 40%;
 }
 
-@media (max-width: 900px) {
+@media (min-width: 900px) {
   .App {
     width: 50%;
   }
