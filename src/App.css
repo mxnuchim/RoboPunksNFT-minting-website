@@ -39,8 +39,9 @@ body {
   background-position: 40% 40%;
 }
 
-@media only screen and (max-width: 768px) {
-  .App {
-    width: 100%;
-  }
+@media screen and (max-width: 1200px) {
+      width: 100%;
+      flex-direction: row;
+      flex-wrap: wrap;
+      margin-left: 0;
 }
