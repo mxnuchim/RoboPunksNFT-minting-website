@@ -38,3 +38,9 @@ body {
   background-attachment: fixed;
   background-position: 40% 40%;
 }
+
+@media (max-width: 900px) {
+  .App {
+    width: 100%;
+  }
+}
