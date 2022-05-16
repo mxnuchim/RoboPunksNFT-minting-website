@@ -40,7 +40,7 @@ body {
 }
 
 @media screen and (max-width: 1200px) {
-      width: 100wh;
+      width: 100vw;
       flex-direction: row;
       flex-wrap: wrap;
       margin-left: 0;
